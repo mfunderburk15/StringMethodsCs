@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\bin\Debug\netcoreapp3.1\StringMethodsCs.exe
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\bin\Debug\netcoreapp3.1\StringMethodsCs.deps.json
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\bin\Debug\netcoreapp3.1\StringMethodsCs.runtimeconfig.json
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\bin\Debug\netcoreapp3.1\StringMethodsCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\bin\Debug\netcoreapp3.1\StringMethodsCs.dll
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\bin\Debug\netcoreapp3.1\StringMethodsCs.pdb
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.dll
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.pdb
+C:\Users\masen\source\repos\StringMethodsCs\StringMethodsCs\obj\Debug\netcoreapp3.1\StringMethodsCs.genruntimeconfig.cache

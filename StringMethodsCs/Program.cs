@@ -6,7 +6,9 @@ namespace StringMethodsCs
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string fullName = "Masen Funderburk ";
+            Console.WriteLine("Trim: '{0}' ", fullName.Trim());
+
         }
     }
 }
